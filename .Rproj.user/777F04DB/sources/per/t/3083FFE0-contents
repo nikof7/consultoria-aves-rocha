@@ -1,5 +1,5 @@
 ---
-title: "Mackkinon - iNext"
+title: "MacKinnon - iNEXT"
 author: "nico"
 date: "`r Sys.Date()`"
 output: 
@@ -8,7 +8,7 @@ output:
     toc: yes
 ---
 
-# Mackkinon - iNext
+# MacKinnon - iNEXT
 
 ## Prueba con Servetto
 
@@ -62,7 +62,6 @@ Y se visualiza el resultado.
 resultado_inext$summary
 resultado_inext$figure[[6]]
 ```
-
 
 
 ## Prueba con Ferrer
