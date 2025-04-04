@@ -1,0 +1,779 @@
+propietario,nombre_comun,nombre_cientifico,orden,familia,codigo
+barra_grande1,Martineta,Rhynchotus rufescens,Struthioniformes,Tinamidae,LC
+barra_grande1,Perdiz,Nothura maculosa,Struthioniformes,Tinamidae,LC
+barra_grande1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+barra_grande1,Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+barra_grande1,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+barra_grande1,Pato Capuchino,Spatula versicolor,Anseriformes,Anatidae,LC
+barra_grande1,Pato Barcino,Anas flavirostris,Anseriformes,Anatidae,LC
+barra_grande1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+barra_grande1,Paloma Ala Manchada,Patagioenas maculosa,Columbiformes,Columbidae,LC
+barra_grande1,Torcacita Común,Columbina picui,Columbiformes,Columbidae,LC
+barra_grande1,Paloma Montaraz Común,Leptotila verreauxi,Columbiformes,Columbidae,LC
+barra_grande1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+barra_grande1,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+barra_grande1,Picaflor Verde,Chlorostilbon lucidus,Caprimulgiformes,Trochilidae,LC
+barra_grande1,Picaflor Bronceado,Hylocharis chrysura,Caprimulgiformes,Trochilidae,LC
+barra_grande1,Carao,Aramus guarauna,Gruiformes,Aramidae,LC
+barra_grande1,Tero Real,Himantopus mexicanus,NA,NA,NA
+barra_grande1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+barra_grande1,Becasina Común,Gallinago paraguaiae,Charadriiformes,Scolopacidae,LC
+barra_grande1,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+barra_grande1,Playero Mayor Patas Amarillas,Tringa melanoleuca,Charadriiformes,Scolopacidae,NT
+barra_grande1,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+barra_grande1,Gaviotín Real,Thalasseus maximus,Charadriiformes,Laridae,LC
+barra_grande1,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+barra_grande1,Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+barra_grande1,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+barra_grande1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+barra_grande1,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+barra_grande1,Garza Bruja,Nycticorax nycticorax,Pelecaniformes,Ardeidae,LC
+barra_grande1,Garza Amarilla,Syrigma sibilatrix,Pelecaniformes,Ardeidae,LC
+barra_grande1,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+barra_grande1,Garcita Azulada,Butorides striata,Pelecaniformes,Ardeidae,LC
+barra_grande1,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+barra_grande1,Garza Mora,Ardea cocoi,Pelecaniformes,Ardeidae,LC
+barra_grande1,Cuervo Cabeza Negra,Coragyps atratus,Cathartiformes,Cathartidae,LC
+barra_grande1,Cuervo Cabeza Roja,Cathartes aura,Cathartiformes,Cathartidae,LC
+barra_grande1,Gavilán Ceniciento,Circus cinereus,Accipitriformes,Accipitridae,LC
+barra_grande1,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+barra_grande1,Águila Colorada,Buteogallus meridionalis,Accipitriformes,Accipitridae,LC
+barra_grande1,Gavilán Común,Rupornis magnirostris,Accipitriformes,Accipitridae,LC
+barra_grande1,Martín Pescador Mediano,Chloroceryle amazona,Coraciiformes,Alcedinidae,LC
+barra_grande1,Martín Pescador Chico,Chloroceryle americana,Coraciiformes,Alcedinidae,LC
+barra_grande1,Carpinterito Enano,Picumnus nebulosus,Piciformes,Picidae,NT
+barra_grande1,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+barra_grande1,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+barra_grande1,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+barra_grande1,Chimango,Daptrius chimango,NA,NA,NA
+barra_grande1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+barra_grande1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+barra_grande1,Junquero,Phleocryptes melanops,Passeriformes,Furnariidae,LC
+barra_grande1,Titirí,Syndactyla rufosuperciliata,Passeriformes,Furnariidae,LC
+barra_grande1,Tiotío Común,Phacellodomus striaticollis,Passeriformes,Furnariidae,LC
+barra_grande1,Trepadorcito,Cranioleuca pyrrhophia,Passeriformes,Furnariidae,LC
+barra_grande1,Pijuí Común,Synallaxis spixi,Passeriformes,Furnariidae,LC
+barra_grande1,Anambé Negro,Pachyramphus polychopterus,Passeriformes,Tityridae,LC
+barra_grande1,Piojito Silbón,Camptostoma obsoletum,Passeriformes,Tyrannidae,LC
+barra_grande1,Fiofío Pico Corto,Elaenia parvirostris,Passeriformes,Tyrannidae,LC
+barra_grande1,Tiquitiqui Oscuro,Serpophaga nigricans,Passeriformes,Tyrannidae,LC
+barra_grande1,Tiquitiqui Común,Serpophaga subcristata,Passeriformes,Tyrannidae,LC
+barra_grande1,Mosqueta de Monte,Lathrotriccus euleri,Passeriformes,Tyrannidae,LC
+barra_grande1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+barra_grande1,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+barra_grande1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+barra_grande1,Viudita Blanca Grande,Heteroxolmis dominicana,NA,NA,NA
+barra_grande1,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+barra_grande1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+barra_grande1,Benteveo Rayado,Myiodynastes maculatus,Passeriformes,Tyrannidae,LC
+barra_grande1,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+barra_grande1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+barra_grande1,Juan Chiviro,Cyclarhis gujanensis,Passeriformes,Vireonidae,LC
+barra_grande1,Chiví,Vireo chivi,Passeriformes,Vireonidae,LC
+barra_grande1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+barra_grande1,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+barra_grande1,Golondrina Cuello Canela,Stelgidopteryx ruficollis,Passeriformes,Hirundinidae,LC
+barra_grande1,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+barra_grande1,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+barra_grande1,Ratonera,Troglodytes musculus,NA,NA,NA
+barra_grande1,Calandria,Mimus saturninus,Passeriformes,Mimidae,LC
+barra_grande1,Zorzal,Turdus rufiventris,Passeriformes,Turdidae,LC
+barra_grande1,Sabiá,Turdus amaurochalinus,Passeriformes,Turdidae,LC
+barra_grande1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+barra_grande1,Cabecitanegra,Spinus magellanicus,Passeriformes,Fringillidae,LC
+barra_grande1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+barra_grande1,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+barra_grande1,Músico,Agelaioides badius,Passeriformes,Icteridae,LC
+barra_grande1,Alférez,Agelasticus thilius,Passeriformes,Icteridae,LC
+barra_grande1,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+barra_grande1,Arañero Cara Negra,Geothlypis velata,NA,NA,NA
+barra_grande1,Pitiayumí,Setophaga pitiayumi,Passeriformes,Parulidae,LC
+barra_grande1,Arañero Chico,Basileuterus culicivorus,Passeriformes,Parulidae,LC
+barra_grande1,Arañero Oliváceo,Myiothlypis leucoblephara,Passeriformes,Parulidae,LC
+barra_grande1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+barra_grande1,Monterita Rabadilla Roja,Microspingus cabanisi,Passeriformes,Thraupidae,LC
+barra_grande1,Cardenal Azul,Stephanophorus diadematus,Passeriformes,Thraupidae,LC
+barra_grande1,Naranjero,Rauenia bonariensis,NA,NA,NA
+barra_grande1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+barra_grande1,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+barra_grande1,Verdón,Embernagra platensis,Passeriformes,Thraupidae,LC
+barra_grande1,Gargantillo,Sporophila caerulescens,Passeriformes,Thraupidae,LC
+barra_grande1,Rey del Bosque Verdoso,Saltator similis,Passeriformes,Thraupidae,LC
+mario_servetto1,Perdiz,Nothura maculosa,Struthioniformes,Tinamidae,LC
+mario_servetto1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+mario_servetto1,Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+mario_servetto1,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+mario_servetto1,Pato Capuchino,Spatula versicolor,Anseriformes,Anatidae,LC
+mario_servetto1,Pato Barcino,Anas flavirostris,Anseriformes,Anatidae,LC
+mario_servetto1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+mario_servetto1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+mario_servetto1,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+mario_servetto1,Carao,Aramus guarauna,Gruiformes,Aramidae,LC
+mario_servetto1,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+mario_servetto1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+mario_servetto1,Jacana,Jacana jacana,Charadriiformes,Jacanidae,LC
+mario_servetto1,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+mario_servetto1,Playero Mayor Patas Amarillas,Tringa melanoleuca,Charadriiformes,Scolopacidae,NT
+mario_servetto1,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+mario_servetto1,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+mario_servetto1,Gaviota Capucho Café,Chroicocephalus maculipennis,NA,NA,NA
+mario_servetto1,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+mario_servetto1,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+mario_servetto1,Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+mario_servetto1,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+mario_servetto1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+mario_servetto1,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+mario_servetto1,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+mario_servetto1,Garza Bruja,Nycticorax nycticorax,Pelecaniformes,Ardeidae,LC
+mario_servetto1,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+mario_servetto1,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+mario_servetto1,Garza Mora,Ardea cocoi,Pelecaniformes,Ardeidae,LC
+mario_servetto1,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+mario_servetto1,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+mario_servetto1,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+mario_servetto1,Chimango,Daptrius chimango,NA,NA,NA
+mario_servetto1,Halconcito,Falco sparverius,Falconiformes,Falconidae,LC
+mario_servetto1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+mario_servetto1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+mario_servetto1,Tiquitiqui Oscuro,Serpophaga nigricans,Passeriformes,Tyrannidae,LC
+mario_servetto1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+mario_servetto1,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+mario_servetto1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+mario_servetto1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+mario_servetto1,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+mario_servetto1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+mario_servetto1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+mario_servetto1,Golondrina Azul Grande,Progne chalybea,Passeriformes,Hirundinidae,LC
+mario_servetto1,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+mario_servetto1,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+mario_servetto1,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+mario_servetto1,Ratonera,Troglodytes musculus,NA,NA,NA
+mario_servetto1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+mario_servetto1,Cachirla Común,Anthus furcatus,Passeriformes,Motacillidae,LC
+mario_servetto1,Cachirla Uña Larga,Anthus correndera,Passeriformes,Motacillidae,LC
+mario_servetto1,Cabecitanegra,Spinus magellanicus,Passeriformes,Fringillidae,LC
+mario_servetto1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+mario_servetto1,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+mario_servetto1,Músico,Agelaioides badius,Passeriformes,Icteridae,LC
+mario_servetto1,Garibaldino,Chrysomus ruficapillus,Passeriformes,Icteridae,LC
+mario_servetto1,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+mario_servetto1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+mario_servetto1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+mario_servetto1,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+mario_servetto2,Ñandú,Rhea americana,Struthioniformes,Rheidae,NT
+mario_servetto2,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+mario_servetto2,Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+mario_servetto2,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+mario_servetto2,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+mario_servetto2,Paloma Ala Manchada,Patagioenas maculosa,Columbiformes,Columbidae,LC
+mario_servetto2,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+mario_servetto2,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+mario_servetto2,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+mario_servetto2,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+mario_servetto2,Becasina Común,Gallinago paraguaiae,Charadriiformes,Scolopacidae,LC
+mario_servetto2,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+mario_servetto2,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+mario_servetto2,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+mario_servetto2,Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+mario_servetto2,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+mario_servetto2,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+mario_servetto2,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+mario_servetto2,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+mario_servetto2,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+mario_servetto2,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+mario_servetto2,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+mario_servetto2,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+mario_servetto2,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+mario_servetto2,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+mario_servetto2,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+mario_servetto2,Curutié Colorado,Certhiaxis cinnamomeus,Passeriformes,Furnariidae,LC
+mario_servetto2,Fiofío Pico Corto,Elaenia parvirostris,Passeriformes,Tyrannidae,LC
+mario_servetto2,Tiquitiqui Común,Serpophaga subcristata,Passeriformes,Tyrannidae,LC
+mario_servetto2,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+mario_servetto2,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+mario_servetto2,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+mario_servetto2,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+mario_servetto2,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+mario_servetto2,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+mario_servetto2,Golondrina Azul Grande,Progne chalybea,Passeriformes,Hirundinidae,LC
+mario_servetto2,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+mario_servetto2,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+mario_servetto2,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+mario_servetto2,Ratonera,Troglodytes musculus,NA,NA,NA
+mario_servetto2,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+mario_servetto2,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+mario_servetto2,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+mario_servetto2,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+mario_servetto2,Pitiayumí,Setophaga pitiayumi,Passeriformes,Parulidae,LC
+mario_servetto2,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+mario_servetto2,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+mario_servetto2,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+mario_servetto3,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+mario_servetto3,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+mario_servetto3,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+mario_servetto3,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+mario_servetto3,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+mario_servetto3,Estornino Pinto,Sturnus vulgaris,Passeriformes,Sturnidae,LC
+mario_servetto3,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+mario_servetto3,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+molina1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+molina1,Becasina Común,Gallinago paraguaiae,Charadriiformes,Scolopacidae,LC
+molina1,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+molina1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+molina1,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+molina1,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+molina1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+molina1,Cachirla indeterminada,Anthus sp.,NA,NA,NA
+molina1,Alférez,Agelasticus thilius,Passeriformes,Icteridae,LC
+molina1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+molina2,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+molina2,Tero Real,Himantopus mexicanus,NA,NA,NA
+molina2,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+molina2,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+molina2,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+molina2,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+molina2,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+molina2,Garza Mora,Ardea cocoi,Pelecaniformes,Ardeidae,LC
+molina2,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+molina2,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+molina3,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+molina3,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+molina3,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+molina3,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+molina3,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+molina3,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+molina3,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+molina3,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+molina3,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+molina4,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+molina4,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+molina4,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+molina4,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+molina4,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+molina4,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+molina4,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+molina4,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+molina4,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+nicodella_noche,Dormilón Tijereta,Hydropsalis torquata,Caprimulgiformes,Caprimulgidae,LC
+nicodella1,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+nicodella1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+nicodella1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+nicodella1,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+nicodella1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+nicodella1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+nicodella1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+nicodella1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+nicodella10,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella10,Playero Solitario,Tringa solitaria,Charadriiformes,Scolopacidae,LC
+nicodella10,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+nicodella10,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+nicodella10,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+nicodella10,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+nicodella10,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella10,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+nicodella10,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+nicodella10,Cachirla indeterminada,Anthus sp.,NA,NA,NA
+nicodella11,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+nicodella11,Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+nicodella11,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+nicodella11,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella11,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella11,Becasina Común,Gallinago paraguaiae,Charadriiformes,Scolopacidae,LC
+nicodella11,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+nicodella11,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+nicodella11,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+nicodella11,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella12,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+nicodella12,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella12,Becasina Común,Gallinago paraguaiae,Charadriiformes,Scolopacidae,LC
+nicodella12,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+nicodella12,Cachirla indeterminada,Anthus sp.,NA,NA,NA
+nicodella12,Alférez,Agelasticus thilius,Passeriformes,Icteridae,LC
+nicodella12,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+nicodella13,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+nicodella13,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella13,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+nicodella13,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+nicodella13,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+nicodella13,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+nicodella13,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+nicodella13,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella13,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+nicodella13,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+nicodella14,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella14,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+nicodella14,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+nicodella14,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+nicodella14,Junquero,Phleocryptes melanops,Passeriformes,Furnariidae,LC
+nicodella14,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+nicodella14,Vinchero,Satrapa icterophrys,Passeriformes,Tyrannidae,LC
+nicodella14,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+nicodella14,Federal,Amblyramphus holosericeus,Passeriformes,Icteridae,LC
+nicodella14,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+nicodella2,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+nicodella2,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella2,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+nicodella2,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+nicodella2,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella2,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+nicodella2,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+nicodella2,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+nicodella2,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+nicodella2,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+nicodella3,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella3,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+nicodella3,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+nicodella3,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+nicodella3,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+nicodella3,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+nicodella3,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella3,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+nicodella3,Pitiayumí,Setophaga pitiayumi,Passeriformes,Parulidae,LC
+nicodella3,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+nicodella4,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+nicodella4,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella4,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+nicodella4,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+nicodella4,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+nicodella4,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+nicodella4,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+nicodella4,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+nicodella4,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+nicodella4,Verdón,Embernagra platensis,Passeriformes,Thraupidae,LC
+nicodella5,Paloma Montaraz Común,Leptotila verreauxi,Columbiformes,Columbidae,LC
+nicodella5,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+nicodella5,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+nicodella5,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+nicodella5,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella5,Piojito Azulado,Polioptila dumicola,Passeriformes,Polioptilidae,LC
+nicodella5,Zorzal,Turdus rufiventris,Passeriformes,Turdidae,LC
+nicodella5,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+nicodella5,Naranjero,Rauenia bonariensis,NA,NA,NA
+nicodella5,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+nicodella6,Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+nicodella6,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella6,Batitú,Bartramia longicauda,Charadriiformes,Scolopacidae,LC
+nicodella6,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+nicodella6,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+nicodella6,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+nicodella6,Pajonalera Pico Recto,Limnoctites rectirostris,Passeriformes,Furnariidae,NT
+nicodella6,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+nicodella6,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella6,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+nicodella7,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+nicodella7,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella7,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella7,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+nicodella7,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+nicodella7,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+nicodella7,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+nicodella7,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+nicodella7,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+nicodella7,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+nicodella8,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella8,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella8,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+nicodella8,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+nicodella8,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+nicodella8,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+nicodella8,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+nicodella8,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+nicodella8,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+nicodella8,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella9,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+nicodella9,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+nicodella9,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+nicodella9,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+nicodella9,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+nicodella9,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+nicodella9,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+nicodella9,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+nicodella9,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+nicodella9,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+OSCAR,Pato Capuchino,Spatula versicolor,Anseriformes,Anatidae,LC
+OSCAR,Pato Barcino,Anas flavirostris,Anseriformes,Anatidae,LC
+OSCAR,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+OSCAR,Paloma Ala Manchada,Patagioenas maculosa,Columbiformes,Columbidae,LC
+OSCAR,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+OSCAR,Carao,Aramus guarauna,Gruiformes,Aramidae,LC
+OSCAR,Tero Real,Himantopus mexicanus,NA,NA,NA
+OSCAR,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+OSCAR,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+OSCAR,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+OSCAR,Playero Mayor Patas Amarillas,Tringa melanoleuca,Charadriiformes,Scolopacidae,NT
+OSCAR,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+OSCAR,Gaviota Cocinera,Larus dominicanus,Charadriiformes,Laridae,LC
+OSCAR,Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+OSCAR,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+OSCAR,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+OSCAR,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+OSCAR,Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+OSCAR,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+OSCAR,Garza Bueyera,Ardea ibis,NA,NA,NA
+OSCAR,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+OSCAR,Gavilán Alilargo,Circus buffoni,Accipitriformes,Accipitridae,LC
+OSCAR,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+OSCAR,Lechucita de Campo,Athene cunicularia,Strigiformes,Strigidae,LC
+OSCAR,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+OSCAR,Chimango,Daptrius chimango,NA,NA,NA
+OSCAR,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+OSCAR,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+OSCAR,Espinero,Anumbius annumbi,Passeriformes,Furnariidae,LC
+OSCAR,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+OSCAR,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+OSCAR,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+OSCAR,Golondrina Azul Grande,Progne chalybea,Passeriformes,Hirundinidae,LC
+OSCAR,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+OSCAR,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+OSCAR,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+OSCAR,Cachirla Común,Anthus furcatus,Passeriformes,Motacillidae,LC
+OSCAR,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+OSCAR,Federal,Amblyramphus holosericeus,Passeriformes,Icteridae,LC
+OSCAR,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+OSCAR,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+oscar_ferrer_transecta4_1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+oscar_ferrer_transecta4_1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+oscar_ferrer_transecta4_1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+oscar_ferrer_transecta4_1,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+oscar_ferrer_transecta4_1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+oscar_ferrer_transecta4_1,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+oscar_ferrer_transecta4_1,Playerito Pico Fino,Calidris bairdii,Charadriiformes,Scolopacidae,LC
+oscar_ferrer_transecta4_1,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+oscar_ferrer_transecta4_1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+oscar_ferrer_transecta4_1,Garza Bueyera,Ardea ibis,NA,NA,NA
+oscar_ferrer_transecta4_1,Cuervo Cabeza Roja,Cathartes aura,Cathartiformes,Cathartidae,LC
+oscar_ferrer_transecta4_1,Águila Colorada,Buteogallus meridionalis,Accipitriformes,Accipitridae,LC
+oscar_ferrer_transecta4_1,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+oscar_ferrer_transecta4_1,Chimango,Daptrius chimango,NA,NA,NA
+oscar_ferrer_transecta4_1,Halconcito,Falco sparverius,Falconiformes,Falconidae,LC
+oscar_ferrer_transecta4_1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+oscar_ferrer_transecta4_1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+oscar_ferrer_transecta4_1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+oscar_ferrer_transecta4_1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+oscar_ferrer_transecta4_1,Escarchero,Nengetus cinereus,NA,NA,NA
+oscar_ferrer_transecta4_1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+oscar_ferrer_transecta4_1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+oscar_ferrer_transecta4_1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+oscar_ferrer_transecta4_1,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+oscar_ferrer_transecta4_1,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+oscar_ferrer_transecta4_1,Ratonera,Troglodytes musculus,NA,NA,NA
+oscar_ferrer_transecta4_1,Estornino Pinto,Sturnus vulgaris,Passeriformes,Sturnidae,LC
+oscar_ferrer_transecta4_1,Calandria,Mimus saturninus,Passeriformes,Mimidae,LC
+oscar_ferrer_transecta4_1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+oscar_ferrer_transecta4_1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+oscar_ferrer_transecta4_1,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+oscar_ferrer_transecta4_1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+oscar_ferrer_transecta4_1,Cardenal Azul,Stephanophorus diadematus,Passeriformes,Thraupidae,LC
+oscar_ferrer_transecta4_1,Celestón,Thraupis sayaca,NA,NA,NA
+rosina_servetto1,Perdiz,Nothura maculosa,Struthioniformes,Tinamidae,LC
+rosina_servetto1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+rosina_servetto1,Ganso Común,Doméstico) (Anser anser (Domestic type),NA,NA,NA
+rosina_servetto1,Cisne Cuello Negro,Cygnus melancoryphus,Anseriformes,Anatidae,LC
+rosina_servetto1,Coscoroba,Coscoroba coscoroba,Anseriformes,Anatidae,LC
+rosina_servetto1,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+rosina_servetto1,Pato Capuchino,Spatula versicolor,Anseriformes,Anatidae,LC
+rosina_servetto1,Pato Barcino,Anas flavirostris,Anseriformes,Anatidae,LC
+rosina_servetto1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+rosina_servetto1,Paloma Ala Manchada,Patagioenas maculosa,Columbiformes,Columbidae,LC
+rosina_servetto1,Paloma Montaraz Común,Leptotila verreauxi,Columbiformes,Columbidae,LC
+rosina_servetto1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+rosina_servetto1,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+rosina_servetto1,Crespín,Tapera naevia,Cuculiformes,Cuculidae,LC
+rosina_servetto1,Picaflor Verde,Chlorostilbon lucidus,Caprimulgiformes,Trochilidae,LC
+rosina_servetto1,Picaflor Bronceado,Hylocharis chrysura,Caprimulgiformes,Trochilidae,LC
+rosina_servetto1,Gallineta Grande,Aramides ypecaha,Gruiformes,Rallidae,LC
+rosina_servetto1,Gallareta Grande,Fulica armillata,Gruiformes,Rallidae,LC
+rosina_servetto1,Carao,Aramus guarauna,Gruiformes,Aramidae,LC
+rosina_servetto1,Tero Real,Himantopus mexicanus,NA,NA,NA
+rosina_servetto1,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+rosina_servetto1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+rosina_servetto1,Jacana,Jacana jacana,Charadriiformes,Jacanidae,LC
+rosina_servetto1,Playerito Manchado,Actitis macularius,Charadriiformes,Scolopacidae,LC
+rosina_servetto1,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+rosina_servetto1,Playero Mayor Patas Amarillas,Tringa melanoleuca,Charadriiformes,Scolopacidae,NT
+rosina_servetto1,Playerito Rabadilla Blanca,Calidris fuscicollis,Charadriiformes,Scolopacidae,VU
+rosina_servetto1,Gaviota Capucho Café,Chroicocephalus maculipennis,NA,NA,NA
+rosina_servetto1,Gaviota Cocinera,Larus dominicanus,Charadriiformes,Laridae,LC
+rosina_servetto1,Gaviotín Chico,Sternula superciliaris,Charadriiformes,Laridae,LC
+rosina_servetto1,Gaviotín de Antifaz,Sterna trudeaui,Charadriiformes,Laridae,LC
+rosina_servetto1,Macá Pico Grueso,Podilymbus podiceps,Podicipediformes,Podicipedidae,LC
+rosina_servetto1,Macá Grande,Podiceps major,Podicipediformes,Podicipedidae,LC
+rosina_servetto1,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+rosina_servetto1,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+rosina_servetto1,Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+rosina_servetto1,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+rosina_servetto1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+rosina_servetto1,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+rosina_servetto1,Garza Bruja,Nycticorax nycticorax,Pelecaniformes,Ardeidae,LC
+rosina_servetto1,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+rosina_servetto1,Garza Bueyera,Ardea ibis,NA,NA,NA
+rosina_servetto1,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+rosina_servetto1,Garza Mora,Ardea cocoi,Pelecaniformes,Ardeidae,LC
+rosina_servetto1,Cuervo Cabeza Roja,Cathartes aura,Cathartiformes,Cathartidae,LC
+rosina_servetto1,Lechucita de Campo,Athene cunicularia,Strigiformes,Strigidae,LC
+rosina_servetto1,Martín Pescador Chico,Chloroceryle americana,Coraciiformes,Alcedinidae,LC
+rosina_servetto1,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+rosina_servetto1,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+rosina_servetto1,Chimango,Daptrius chimango,NA,NA,NA
+rosina_servetto1,Halconcito,Falco sparverius,Falconiformes,Falconidae,LC
+rosina_servetto1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+rosina_servetto1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+rosina_servetto1,Junquero,Phleocryptes melanops,Passeriformes,Furnariidae,LC
+rosina_servetto1,Tiotío Común,Phacellodomus striaticollis,Passeriformes,Furnariidae,LC
+rosina_servetto1,Trepadorcito,Cranioleuca pyrrhophia,Passeriformes,Furnariidae,LC
+rosina_servetto1,Curutié Colorado,Certhiaxis cinnamomeus,Passeriformes,Furnariidae,LC
+rosina_servetto1,Pijuí Común,Synallaxis spixi,Passeriformes,Furnariidae,LC
+rosina_servetto1,Fiofío Pico Corto,Elaenia parvirostris,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Tiquitiqui Oscuro,Serpophaga nigricans,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Tiquitiqui Común,Serpophaga subcristata,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Vinchero,Satrapa icterophrys,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Escarchero,Nengetus cinereus,NA,NA,NA
+rosina_servetto1,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+rosina_servetto1,Juan Chiviro,Cyclarhis gujanensis,Passeriformes,Vireonidae,LC
+rosina_servetto1,Chiví,Vireo chivi,Passeriformes,Vireonidae,LC
+rosina_servetto1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+rosina_servetto1,Golondrina Azul Grande,Progne chalybea,Passeriformes,Hirundinidae,LC
+rosina_servetto1,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+rosina_servetto1,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+rosina_servetto1,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+rosina_servetto1,Piojito Azulado,Polioptila dumicola,Passeriformes,Polioptilidae,LC
+rosina_servetto1,Ratonera,Troglodytes musculus,NA,NA,NA
+rosina_servetto1,Calandria,Mimus saturninus,Passeriformes,Mimidae,LC
+rosina_servetto1,Zorzal,Turdus rufiventris,Passeriformes,Turdidae,LC
+rosina_servetto1,Gorrión,Passer domesticus,Passeriformes,Passeridae,LC
+rosina_servetto1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+rosina_servetto1,Cabecitanegra,Spinus magellanicus,Passeriformes,Fringillidae,LC
+rosina_servetto1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+rosina_servetto1,Pecho Colorado,Leistes superciliaris,Passeriformes,Icteridae,LC
+rosina_servetto1,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+rosina_servetto1,Músico,Agelaioides badius,Passeriformes,Icteridae,LC
+rosina_servetto1,Alférez,Agelasticus thilius,Passeriformes,Icteridae,LC
+rosina_servetto1,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+rosina_servetto1,Pitiayumí,Setophaga pitiayumi,Passeriformes,Parulidae,LC
+rosina_servetto1,Arañero Chico,Basileuterus culicivorus,Passeriformes,Parulidae,LC
+rosina_servetto1,Arañero Oliváceo,Myiothlypis leucoblephara,Passeriformes,Parulidae,LC
+rosina_servetto1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+rosina_servetto1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+rosina_servetto1,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+rosina_servetto1,Verdón,Embernagra platensis,Passeriformes,Thraupidae,LC
+sebastian_servetto1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+sebastian_servetto1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+sebastian_servetto1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+sebastian_servetto1,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+sebastian_servetto1,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+sebastian_servetto1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+sebastian_servetto1,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+sebastian_servetto1,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+sebastian_servetto1,Águila Colorada,Buteogallus meridionalis,Accipitriformes,Accipitridae,LC
+sebastian_servetto1,Gavilán Común,Rupornis magnirostris,Accipitriformes,Accipitridae,LC
+sebastian_servetto1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+sebastian_servetto1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+sebastian_servetto1,Tiquitiqui Común,Serpophaga subcristata,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+sebastian_servetto1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+sebastian_servetto1,Ratonera,Troglodytes musculus,NA,NA,NA
+sebastian_servetto1,Estornino Pinto,Sturnus vulgaris,Passeriformes,Sturnidae,LC
+sebastian_servetto1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+sebastian_servetto1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+sebastian_servetto1,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+sebastian_servetto1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+silvia_sayanes1,Ñandú,Rhea americana,Struthioniformes,Rheidae,NT
+silvia_sayanes1,Perdiz,Nothura maculosa,Struthioniformes,Tinamidae,LC
+silvia_sayanes1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+silvia_sayanes1,Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+silvia_sayanes1,Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+silvia_sayanes1,Pato Barcino,Anas flavirostris,Anseriformes,Anatidae,LC
+silvia_sayanes1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+silvia_sayanes1,Paloma Ala Manchada,Patagioenas maculosa,Columbiformes,Columbidae,LC
+silvia_sayanes1,Torcacita Común,Columbina picui,Columbiformes,Columbidae,LC
+silvia_sayanes1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+silvia_sayanes1,Pirincho,Guira guira,Cuculiformes,Cuculidae,LC
+silvia_sayanes1,Picaflor Garganta Blanca,Leucochloris albicollis,Caprimulgiformes,Trochilidae,LC
+silvia_sayanes1,Picaflor Bronceado,Hylocharis chrysura,Caprimulgiformes,Trochilidae,LC
+silvia_sayanes1,Gallineta Grande,Aramides ypecaha,Gruiformes,Rallidae,LC
+silvia_sayanes1,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+silvia_sayanes1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+silvia_sayanes1,Becasina Común,Gallinago paraguaiae,Charadriiformes,Scolopacidae,LC
+silvia_sayanes1,Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+silvia_sayanes1,Playero Mayor Patas Amarillas,Tringa melanoleuca,Charadriiformes,Scolopacidae,NT
+silvia_sayanes1,Playerito Pecho Gris,Calidris melanotos,Charadriiformes,Scolopacidae,LC
+silvia_sayanes1,Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+silvia_sayanes1,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+silvia_sayanes1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+silvia_sayanes1,Bandurria Mora,Theristicus caerulescens,Pelecaniformes,Threskiornithidae,LC
+silvia_sayanes1,Garza Amarilla,Syrigma sibilatrix,Pelecaniformes,Ardeidae,LC
+silvia_sayanes1,Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+silvia_sayanes1,Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+silvia_sayanes1,Garza Mora,Ardea cocoi,Pelecaniformes,Ardeidae,LC
+silvia_sayanes1,Gavilán Alilargo,Circus buffoni,Accipitriformes,Accipitridae,LC
+silvia_sayanes1,Lechucita de Campo,Athene cunicularia,Strigiformes,Strigidae,LC
+silvia_sayanes1,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+silvia_sayanes1,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+silvia_sayanes1,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+silvia_sayanes1,Chimango,Daptrius chimango,NA,NA,NA
+silvia_sayanes1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+silvia_sayanes1,Batará Pardo,Thamnophilus ruficapillus,Passeriformes,Thamnophilidae,LC
+silvia_sayanes1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+silvia_sayanes1,Junquero,Phleocryptes melanops,Passeriformes,Furnariidae,LC
+silvia_sayanes1,Espinero,Anumbius annumbi,Passeriformes,Furnariidae,LC
+silvia_sayanes1,Curutié Colorado,Certhiaxis cinnamomeus,Passeriformes,Furnariidae,LC
+silvia_sayanes1,Fiofío Pico Corto,Elaenia parvirostris,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Tiquitiqui Oscuro,Serpophaga nigricans,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Tiquitiqui Común,Serpophaga subcristata,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Vinchero,Satrapa icterophrys,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Escarchero,Nengetus cinereus,NA,NA,NA
+silvia_sayanes1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+silvia_sayanes1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+silvia_sayanes1,Golondrina Azul Grande,Progne chalybea,Passeriformes,Hirundinidae,LC
+silvia_sayanes1,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+silvia_sayanes1,Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+silvia_sayanes1,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+silvia_sayanes1,Ratonera,Troglodytes musculus,NA,NA,NA
+silvia_sayanes1,Estornino Pinto,Sturnus vulgaris,Passeriformes,Sturnidae,LC
+silvia_sayanes1,Calandria,Mimus saturninus,Passeriformes,Mimidae,LC
+silvia_sayanes1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+silvia_sayanes1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+silvia_sayanes1,Tordo Común,Molothrus bonariensis,Passeriformes,Icteridae,LC
+silvia_sayanes1,Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+silvia_sayanes1,Arañero Cara Negra,Geothlypis velata,NA,NA,NA
+silvia_sayanes1,Pitiayumí,Setophaga pitiayumi,Passeriformes,Parulidae,LC
+silvia_sayanes1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+silvia_sayanes1,Naranjero,Rauenia bonariensis,NA,NA,NA
+silvia_sayanes1,Sietevestidos,Poospiza nigrorufa,Passeriformes,Thraupidae,LC
+silvia_sayanes1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+silvia_sayanes1,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+silvia_sayanes1,Verdón,Embernagra platensis,Passeriformes,Thraupidae,LC
+silvia_sayanes1,Gargantillo,Sporophila caerulescens,Passeriformes,Thraupidae,LC
+veronica_servetto1(1),Ñandú,Rhea americana,Struthioniformes,Rheidae,NT
+veronica_servetto1(1),Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+veronica_servetto1(1),Pato Cara Blanca,Dendrocygna viduata,Anseriformes,Anatidae,LC
+veronica_servetto1(1),Coscoroba,Coscoroba coscoroba,Anseriformes,Anatidae,LC
+veronica_servetto1(1),Pato Brasilero,Amazonetta brasiliensis,Anseriformes,Anatidae,LC
+veronica_servetto1(1),Pato Barcino,Anas flavirostris,Anseriformes,Anatidae,LC
+veronica_servetto1(1),Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+veronica_servetto1(1),Paloma Montaraz Común,Leptotila verreauxi,Columbiformes,Columbidae,LC
+veronica_servetto1(1),Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+veronica_servetto1(1),Picaflor Verde,Chlorostilbon lucidus,Caprimulgiformes,Trochilidae,LC
+veronica_servetto1(1),Picaflor Bronceado,Hylocharis chrysura,Caprimulgiformes,Trochilidae,LC
+veronica_servetto1(1),Gallineta Grande,Aramides ypecaha,Gruiformes,Rallidae,LC
+veronica_servetto1(1),Carao,Aramus guarauna,Gruiformes,Aramidae,LC
+veronica_servetto1(1),Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+veronica_servetto1(1),Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+veronica_servetto1(1),Playero Menor Patas Amarillas,Tringa flavipes,Charadriiformes,Scolopacidae,VU
+veronica_servetto1(1),Playero Mayor Patas Amarillas,Tringa melanoleuca,Charadriiformes,Scolopacidae,NT
+veronica_servetto1(1),Playero Rojizo,Calidris canutus,Charadriiformes,Scolopacidae,NT
+veronica_servetto1(1),Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+veronica_servetto1(1),Gaviota Capucho Café,Chroicocephalus maculipennis,NA,NA,NA
+veronica_servetto1(1),Gaviota Cocinera,Larus dominicanus,Charadriiformes,Laridae,LC
+veronica_servetto1(1),Cigüeña Común,Ciconia maguari,Ciconiiformes,Ciconiidae,LC
+veronica_servetto1(1),Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+veronica_servetto1(1),Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+veronica_servetto1(1),Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+veronica_servetto1(1),Espátula Rosada,Platalea ajaja,Pelecaniformes,Threskiornithidae,LC
+veronica_servetto1(1),Garza Blanca Chica,Egretta thula,Pelecaniformes,Ardeidae,LC
+veronica_servetto1(1),Garcita Azulada,Butorides striata,Pelecaniformes,Ardeidae,LC
+veronica_servetto1(1),Garza Blanca Grande,Ardea alba,Pelecaniformes,Ardeidae,LC
+veronica_servetto1(1),Garza Mora,Ardea cocoi,Pelecaniformes,Ardeidae,LC
+veronica_servetto1(1),Gavilán Ceniciento,Circus cinereus,Accipitriformes,Accipitridae,LC
+veronica_servetto1(1),Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+veronica_servetto1(1),Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+veronica_servetto1(1),Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+veronica_servetto1(1),Chimango,Daptrius chimango,NA,NA,NA
+veronica_servetto1(1),Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+veronica_servetto1(1),Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+veronica_servetto1(1),Tiotío Común,Phacellodomus striaticollis,Passeriformes,Furnariidae,LC
+veronica_servetto1(1),Curutié Ocráceo,Limnoctites sulphuriferus,Passeriformes,Furnariidae,LC
+veronica_servetto1(1),Curutié Colorado,Certhiaxis cinnamomeus,Passeriformes,Furnariidae,LC
+veronica_servetto1(1),Pijuí Común,Synallaxis spixi,Passeriformes,Furnariidae,LC
+veronica_servetto1(1),Tiquitiqui Común,Serpophaga subcristata,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Mosqueta Estriada,Myiophobus fasciatus,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+veronica_servetto1(1),Juan Chiviro,Cyclarhis gujanensis,Passeriformes,Vireonidae,LC
+veronica_servetto1(1),Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+veronica_servetto1(1),Golondrina Azul Grande,Progne chalybea,Passeriformes,Hirundinidae,LC
+veronica_servetto1(1),Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+veronica_servetto1(1),Golondrina Azul Chica,Pygochelidon cyanoleuca,Passeriformes,Hirundinidae,LC
+veronica_servetto1(1),Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+veronica_servetto1(1),Piojito Azulado,Polioptila dumicola,Passeriformes,Polioptilidae,LC
+veronica_servetto1(1),Ratonera,Troglodytes musculus,NA,NA,NA
+veronica_servetto1(1),Sabiá,Turdus amaurochalinus,Passeriformes,Turdidae,LC
+veronica_servetto1(1),Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+veronica_servetto1(1),Cachirla Uña Larga,Anthus correndera,Passeriformes,Motacillidae,LC
+veronica_servetto1(1),Cabecitanegra,Spinus magellanicus,Passeriformes,Fringillidae,LC
+veronica_servetto1(1),Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+veronica_servetto1(1),Pecho Colorado,Leistes superciliaris,Passeriformes,Icteridae,LC
+veronica_servetto1(1),Alférez,Agelasticus thilius,Passeriformes,Icteridae,LC
+veronica_servetto1(1),Pecho Amarillo,Pseudoleistes virescens,Passeriformes,Icteridae,LC
+veronica_servetto1(1),Pitiayumí,Setophaga pitiayumi,Passeriformes,Parulidae,LC
+veronica_servetto1(1),Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+veronica_servetto1(1),Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+veronica_servetto1(1),Dominó,Sporophila collaris,Passeriformes,Thraupidae,LC
+veronica_servetto1(1),Rey del Bosque Verdoso,Saltator similis,Passeriformes,Thraupidae,LC
+veronica_servetto1,Chajá,Chauna torquata,Anseriformes,Anhimidae,LC
+veronica_servetto1,Paloma de Monte,Patagioenas picazuro,Columbiformes,Columbidae,LC
+veronica_servetto1,Torcaza,Zenaida auriculata,Columbiformes,Columbidae,LC
+veronica_servetto1,Picaflor Bronceado,Hylocharis chrysura,Caprimulgiformes,Trochilidae,LC
+veronica_servetto1,Chorlo Dorado,Pluvialis dominica,Charadriiformes,Charadriidae,LC
+veronica_servetto1,Tero,Vanellus chilensis,Charadriiformes,Charadriidae,LC
+veronica_servetto1,Playerito Canela,Calidris subruficollis,Charadriiformes,Scolopacidae,VU
+veronica_servetto1,Cigüeña Cabeza Pelada,Mycteria americana,Ciconiiformes,Ciconiidae,LC
+veronica_servetto1,Biguá,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,LC
+veronica_servetto1,Cuervillo de Cañada,Plegadis chihi,Pelecaniformes,Threskiornithidae,LC
+veronica_servetto1,Cuervillo Cara Pelada,Phimosus infuscatus,Pelecaniformes,Threskiornithidae,LC
+veronica_servetto1,Caracolero,Rostrhamus sociabilis,Accipitriformes,Accipitridae,LC
+veronica_servetto1,Carpintero Nuca Roja,Colaptes melanochloros,Piciformes,Picidae,LC
+veronica_servetto1,Carpintero de Campo,Colaptes campestris,Piciformes,Picidae,LC
+veronica_servetto1,Carancho,Caracara plancus,Falconiformes,Falconidae,LC
+veronica_servetto1,Chimango,Daptrius chimango,NA,NA,NA
+veronica_servetto1,Cotorra,Myiopsitta monachus,Psittaciformes,Psittacidae,LC
+veronica_servetto1,Hornero,Furnarius rufus,Passeriformes,Furnariidae,LC
+veronica_servetto1,Tiotío Común,Phacellodomus striaticollis,Passeriformes,Furnariidae,LC
+veronica_servetto1,Fiofío Pico Corto,Elaenia parvirostris,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Churrinche,Pyrocephalus rubinus,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Pico de Plata,Hymenops perspicillatus,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Vinchero,Satrapa icterophrys,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Viudita Blanca Común,Xolmis irupero,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Picabuey,Machetornis rixosa,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Benteveo,Pitangus sulphuratus,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Benteveo Real,Tyrannus melancholicus,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Tijereta,Tyrannus savana,Passeriformes,Tyrannidae,LC
+veronica_servetto1,Juan Chiviro,Cyclarhis gujanensis,Passeriformes,Vireonidae,LC
+veronica_servetto1,Chiví,Vireo chivi,Passeriformes,Vireonidae,LC
+veronica_servetto1,Golondrina Ceja Blanca,Tachycineta leucorrhoa,Passeriformes,Hirundinidae,LC
+veronica_servetto1,Golondrina Parda Grande,Progne tapera,Passeriformes,Hirundinidae,LC
+veronica_servetto1,Golondrina Tijereta,Hirundo rustica,Passeriformes,Hirundinidae,LC
+veronica_servetto1,Ratonera,Troglodytes musculus,NA,NA,NA
+veronica_servetto1,Cachirla Chica,Anthus chii,Passeriformes,Motacillidae,LC
+veronica_servetto1,Chingolo,Zonotrichia capensis,Passeriformes,Passerellidae,LC
+veronica_servetto1,Pecho Colorado,Leistes superciliaris,Passeriformes,Icteridae,LC
+veronica_servetto1,Tordo Pico Corto,Molothrus rufoaxillaris,Passeriformes,Icteridae,LC
+veronica_servetto1,Federal,Amblyramphus holosericeus,Passeriformes,Icteridae,LC
+veronica_servetto1,Garibaldino,Chrysomus ruficapillus,Passeriformes,Icteridae,LC
+veronica_servetto1,Cardenal Copete Rojo,Paroaria coronata,Passeriformes,Thraupidae,LC
+veronica_servetto1,Sietevestidos,Poospiza nigrorufa,Passeriformes,Thraupidae,LC
+veronica_servetto1,Dorado,Sicalis flaveola,Passeriformes,Thraupidae,LC
+veronica_servetto1,Misto,Sicalis luteola,Passeriformes,Thraupidae,LC
+veronica_servetto1,Gargantillo,Sporophila caerulescens,Passeriformes,Thraupidae,LC

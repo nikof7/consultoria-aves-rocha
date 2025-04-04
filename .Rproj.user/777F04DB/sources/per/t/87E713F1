@@ -1,0 +1,28 @@
+{
+    "id": "87E713F1",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1743794259296.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "9c1be7bea8cc40918c044203b310d6a3",
+        "name": "list_incidence_matrices",
+        "title": "list_incidence_matrices",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 4067992286554765057,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743794259296,
+    "read_only": false,
+    "read_only_alternatives": []
+}

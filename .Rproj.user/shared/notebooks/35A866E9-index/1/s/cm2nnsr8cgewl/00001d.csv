@@ -1,0 +1,4 @@
+"0","df_csv <- df %>% left_join(df_res) %>% 
+  select(propietario, nombre_comun, nombre_cientifico, orden, familia, codigo)
+"
+"2","Joining with `by = join_by(nombre_cientifico, genero, especie)`"
