@@ -10,85 +10,71 @@ output:
 
 # MacKinnon - iNEXT
 
-## Prueba con Servetto
-
-Primero hay que cargar los datos
-
 ```{r warning=FALSE, message=FALSE}
-library(dplyr)
-library(tidyr)
-library(iNEXT.4steps)
+library(tidyverse)
+library(stringr)
 
 # Leer el archivo
-datos_originales <- read.csv("listas_mack.csv", stringsAsFactors = FALSE)[28:50,]
+datos_originales <- read.csv("listas_mack.csv", stringsAsFactors = FALSE) %>% 
+  mutate(lista = str_extract(codigo_lista, "^[^_]+")) %>% 
+  select(lista, everything(), -codigo_lista)
 ```
 
-Luego armar la lista para inext
-
-```{r warning=FALSE, message=FALSE}
-especies_unicas <- unique(unlist(datos_originales[, -1]))
-especies_unicas <- especies_unicas[!is.na(especies_unicas)]
-
-# Crear la matriz binaria
-matriz_binaria <- matrix(0, nrow = nrow(datos_originales), ncol = length(especies_unicas))
-rownames(matriz_binaria) <- datos_originales$codigo_lista
-colnames(matriz_binaria) <- especies_unicas
-
-# Llenar la matriz binaria
-for (i in 1:nrow(datos_originales)) {
-  for (j in 2:ncol(datos_originales)) {
-    especie <- datos_originales[i, j]
-    if (!is.na(especie)) {
-      matriz_binaria[i, especie == especies_unicas] <- 1
-    }
-  }
-}
-
-datos_inext <- list((t(matriz_binaria)))
-
-datos_inext[[1]][1:5,1:4]
-```
-
-Se corre la función `iNEXT4steps`.
+Con este script procesamos los datos y aplicamos la función `iNEXT4steps`. Se almacenan los resultados bajo la variable `resultados_todos`.
 
 ```{r}
-# Realizar el análisis con iNEXT.4steps
-resultado_inext <- iNEXT4steps(datos_inext, datatype = "incidence_raw")
-```
+library(iNEXT.4steps)
 
-Y se visualiza el resultado.
+# Crear lista para guardar los resultados
+resultados_todos <- list()
 
-```{r warning=FALSE, message=FALSE}
-resultado_inext$summary
-resultado_inext$figure[[6]]
-```
+# Obtener valores únicos de la columna "lista"
+listas_unicas <- unique(datos_originales$lista)
 
-
-## Prueba con Ferrer
-
-```{r warning=FALSE, message=FALSE}
-datos_originales <- read.csv("listas_mack.csv", stringsAsFactors = FALSE)[11:16,]
-especies_unicas <- unique(unlist(datos_originales[, -1]))
-especies_unicas <- especies_unicas[!is.na(especies_unicas)]
-
-# Crear la matriz binaria
-matriz_binaria <- matrix(0, nrow = nrow(datos_originales), ncol = length(especies_unicas))
-rownames(matriz_binaria) <- datos_originales$codigo_lista
-colnames(matriz_binaria) <- especies_unicas
-
-# Llenar la matriz binaria
-for (i in 1:nrow(datos_originales)) {
-  for (j in 2:ncol(datos_originales)) {
-    especie <- datos_originales[i, j]
-    if (!is.na(especie)) {
-      matriz_binaria[i, especie == especies_unicas] <- 1
+# Bucle para recorrer cada lista
+for (nombre_lista in listas_unicas) {
+  
+  # Filtrar datos de la lista actual
+  datos_filtrados <- datos_originales %>% filter(lista == nombre_lista)
+  
+  # Crear vector de especies únicas
+  especies_unicas <- unique(unlist(datos_filtrados[, -1]))
+  especies_unicas <- especies_unicas[!is.na(especies_unicas)]
+  
+  # Crear matriz binaria
+  matriz_binaria <- matrix(0, nrow = nrow(datos_filtrados), ncol = length(especies_unicas))
+  rownames(matriz_binaria) <- datos_filtrados$codigo_lista
+  colnames(matriz_binaria) <- especies_unicas
+  
+  for (i in 1:nrow(datos_filtrados)) {
+    for (j in 2:ncol(datos_filtrados)) {
+      especie <- datos_filtrados[i, j]
+      if (!is.na(especie)) {
+        matriz_binaria[i, especie == especies_unicas] <- 1
+      }
     }
   }
+  
+  # Preparar datos para iNEXT4steps
+  datos_inext <- list(t(matriz_binaria))
+  
+  # Ejecutar iNEXT
+  resultado_inext <- iNEXT4steps(datos_inext, datatype = "incidence_raw")
+  
+  # Guardar el gráfico
+  g <- resultado_inext$figure[[1]]
+  ggsave(filename = paste0("figuras_inext/grafico_", nombre_lista, ".png"), plot = g, width = 6, height = 4, dpi = 300)
+  
+  # Guardar resultado en la lista principal
+  resultados_todos[[nombre_lista]] <- resultado_inext
 }
-
-datos_inext <- list((t(matriz_binaria)))
-resultado_inext <- iNEXT4steps(datos_inext, datatype = "incidence_raw")
-resultado_inext$figure[[6]]
+save(resultados_todos, file="resultados_todos.RData")
 ```
 
+Para cargar los resultados se realiza de la siguiente forma:
 
+```{r}
+load("resultados_todos.RData")
+```
+
+Luego de ejecutar el codigo anterior se carga la variable `resultados_todos` en el _enviroment_ y se puede acceder a todos los resultados. Estos estan divididos por predio y estos se pueden ver bajo la variable "lista".

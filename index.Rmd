@@ -1,4 +1,6 @@
 
+El siguiente Script se utilizo para agregar la taxonomía a los nombres científicos que extraímos de eBird. También se añadió el estado de IUCN. Para ambas cosas se utilizó el paquete `rredlist`. 
+
 ```{r}
 library(tidyverse)
 ```

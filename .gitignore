@@ -1,4 +1,13 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# Ignore everything in repository root 
+/*
+
+# Files to not ignore
+!/inext_package.Rmd
+!/README.Rmd
+!/res_data.rds
+!/resultados_todos.RData
+!/index.Rmd
+
+
+# Folder to not ignore
+!/figuras_inext/

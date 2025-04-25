@@ -3,7 +3,7 @@
     "path": "E:/la_carpeta/aves_rocha/inext_package.Rmd",
     "project_path": "inext_package.Rmd",
     "type": "r_markdown",
-    "hash": "1070151931",
+    "hash": "1679793365",
     "contents": "",
     "dirty": false,
     "created": 1743792791889.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "53,6",
-        "scrollLine": "44"
+        "cursorPosition": "61,35",
+        "scrollLine": "61"
     },
     "folds": "",
-    "lastKnownWriteTime": 1743796048,
+    "lastKnownWriteTime": 1745594201,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1743796048978,
+    "last_content_update": 1745594201088,
     "read_only": false,
     "read_only_alternatives": []
 }
